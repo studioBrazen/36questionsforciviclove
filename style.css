@@ -126,7 +126,7 @@ text-align: center;
 #quote{
   width:100vw;
   height:100vh;
-  background:url("https://cdn.glitch.global/7fab02a8-640b-4599-a757-0e7da5a413b8/CivicLove_quoteBG.jpg?v=1692642670653");
+  background:url("CivicLove_quoteBG.jpg");
   background-size:cover;
   font-weight:700;
   padding-top: 4vw;
@@ -149,7 +149,7 @@ text-align: center;
 
 .quote1{
 
-  background:url("https://cdn.glitch.global/7fab02a8-640b-4599-a757-0e7da5a413b8/quotes_quoteBubble1.png?v=1692642916879");
+  background:url("quotes_quoteBubble1.png");
   background-size:contain;
   background-repeat:no-repeat;
   background-position:center;
@@ -161,7 +161,7 @@ text-align: center;
 
 .quote2{
 
-  background:url("https://cdn.glitch.global/7fab02a8-640b-4599-a757-0e7da5a413b8/quotes_quoteBubble2.png?v=1692642920579");
+  background:url("quotes_quoteBubble2.png");
   background-size:contain;
   background-repeat:no-repeat;
   background-position:center;
@@ -187,15 +187,7 @@ text-align: center;
   width: 78vw;
 }
 
-/* .buttons3 {
-  display: flex;
-    height: 7vw;
-    width: 47vw;
-    padding: 7vh 21vw;
-    position: fixed;
-    bottom: 2vh;
-}
- */
+
 
 /* H O W */
   #how {
@@ -223,12 +215,7 @@ text-align: center;
   padding:15vw 5vw;
 }
 
-/* .buttons {
-  display: flex;
-  height: 9vw;
-  width: 47vw;
-  padding: 81vh 26.5vw;
-} */
+
 .next {
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
@@ -411,7 +398,7 @@ span.num {
   #quote {
     width: 100vw;
     height: 100vh;
-    background: url(https://cdn.glitch.global/7fab02a8-640b-4599-a757-0e7da5a413b8/CivicLove_quoteBG.jpg?v=1692642670653);
+    background: url("CivicLove_quoteBG.jpg");
     background-size: cover;
     font-weight: 700;
     padding-top: 4vw;
@@ -421,7 +408,7 @@ span.num {
 /*     width: 51vw;
     padding: 13vw 23vw 9vw 24vw;
     margin: -2vw 0; */
-    background: url(https://cdn.glitch.global/7fab02a8-640b-4599-a757-0e7da5a413b8/quotes_quoteBubble1.png?v=1692642916879);
+    background: url("quotes_quoteBubble1.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -443,7 +430,7 @@ span.num {
 /*     width: 33vw;
     padding: 8vw 15vw 11vw 13vw;
     margin: 5vw 17vw; */
-    background: url(https://cdn.glitch.global/7fab02a8-640b-4599-a757-0e7da5a413b8/quotes_quoteBubble2.png?v=1692642920579);
+    background: url("quotes_quoteBubble2.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
